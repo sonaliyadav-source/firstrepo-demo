@@ -1,4 +1,4 @@
 # firstrepo-demo
 This is my first repository.
 <br>
-Author - Sonali Avantika Yadav
+Author - Sonali Avantika yaduvanshi
